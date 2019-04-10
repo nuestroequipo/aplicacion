@@ -1,6 +1,6 @@
 package nuevo;
 
-public class Prueba {
+public class PruebaNueva {
 	private int num;
 	private String cad;
 	// ESto es del ultimo
